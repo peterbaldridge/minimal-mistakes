@@ -76,7 +76,7 @@ analytics:
 
 
 # Site Author
-author:
+  author           : "Peter Baldridge"
   name             : "Peter Baldridge"
   avatar           : "https://avatars0.githubusercontent.com/u/8368185?v=3&s=460"
   bio              : "Seattle-Based Data Scientist"

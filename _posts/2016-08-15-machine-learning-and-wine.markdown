@@ -1,7 +1,7 @@
 ---
 published: true
 title: Machine Learning + Wine
-layout: post
+layout: single
 ---
 ### Why the Science of Wine Scoring Isn’t as Flimsy as You Might Think
 

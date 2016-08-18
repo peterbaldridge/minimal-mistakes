@@ -23,7 +23,7 @@ In recent years, the wine reviewing industry has come under fire. Critiques have
 The dataset consists of 12 measurements: wine score (ranging from  0, very bad, to 10, very excellent) and 11 chemical attributes such as acidity, alcohol, and residual sugar. A full description of the chemical attributes can be found [here](http://archive.ics.uci.edu/ml/datasets/Wine+Quality). The dataset contains 4898 individual white wine records of which I assigned 80% to a training set and 20% to a cross-validation set.
 
 ### THE PROCESS
-I used several machine learning techniques to try and predict wine scores. These techniques included Multiple Linear Regression, Random Forest Regression, Support Vector Machines, and Neural Networks.
+I used a variety of machine learning techniques to try and predict wine scores. These techniques included Multiple Linear Regression, Random Forest Regression, Support Vector Machine, Artificial Neural Networks.
 
 ### THE RESULTS
 The results were clear as a bottle of fine Sauvignon blanc: wine score can be reliably predicted using a variety of models, a few of which exceed 90% accuracy. From a list of four models, the clear winner was the Support Vector Machine, which had an accuracy rating of 91.8%. For anyone interesting in toying around with predictive models, I highly recommend Scikit-Learn.

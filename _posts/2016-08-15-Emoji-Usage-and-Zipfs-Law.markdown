@@ -3,11 +3,9 @@ layout: single
 published: true
 title: Emoji Usage and Zipf's Law
 ---
-![](https://peterbaldridge.github.io/media/emoji/banner.PNG)
-
-# Emoji Usage and Zipf's Law
-
 A linguistic analysis of Emoji usage on Twitter.
+
+![](https://peterbaldridge.github.io/media/emoji/banner.PNG)
 
 ## Zipf's Law
 

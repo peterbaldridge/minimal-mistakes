@@ -229,20 +229,21 @@ compress_html:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
+  - 
+    scope:
+        path: ""
+        type: posts
+      values:
+        layout: single
+        author_profile: true
+        read_time: false
+        comments: false
+        share: false
+        related: false
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  -   scope:
+        path: ""
+        type: pages
+      values:
+        layout: single
+        author_profile: true

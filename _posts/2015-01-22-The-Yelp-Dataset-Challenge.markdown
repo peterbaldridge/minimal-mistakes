@@ -15,7 +15,7 @@ My question was: How do Yelp users visit the different neighborhoods of their ci
 To quantify the diversity of users' visiting habits, I used [Shannon's E](https://en.wikipedia.org/wiki/Diversity_index), a well-used ecological diversity index.
 
 ## Results:
-The results were unlike anything I had expected. Instead of the isolated clusters I had imagined, the scatterplot showed a single contiguous mass that lengthened and focused as review count increased. In other words: diversity index was approaching limit as the review count increased.
+The results were unlike anything I had expected. Instead of the isolated clusters I had imagined, the scatterplot showed a single contiguous mass that lengthened and focused as review count increased. In mathematical terms: diversity approaches a limit as review count increases.
 
 ![](https://peterbaldridge.github.io/media/yelp/pitts.jpg)
 

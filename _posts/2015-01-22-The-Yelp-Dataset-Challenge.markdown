@@ -3,8 +3,9 @@ layout: single
 published: true
 title: The Yelp Dataset Challenge
 header:
-  image: /media/emoji/banner.PNG
+  image: grapevine2.jpg
 ---
+
 Every year, Yelp holds a dataset challenge in which they release a treasure trove of data to the public. [This year's dataset](https://www.yelp.com/dataset_challenge) includes more than 2.2 million reviews, 591 thousand tips, and 71 thousand businesses, and 200 thousand pictures.
 
 ## The Problem

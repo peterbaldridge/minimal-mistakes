@@ -2,6 +2,7 @@
 published: true
 title: Machine Learning + Wine
 layout: single
+author: Peter Baldridge
 ---
 ### Why the Science of Wine Scoring Isn’t as Flimsy as You Might Think
 

@@ -4,7 +4,7 @@ title: Machine Learning + Wine
 layout: single
 author: Peter Baldridge
 header:
-  image: /media/overlays/emoji.jpg
+  image: emoji.jpg
 ---
 
 Why the Science of Wine Scoring Isn’t as Flimsy as You Might Think

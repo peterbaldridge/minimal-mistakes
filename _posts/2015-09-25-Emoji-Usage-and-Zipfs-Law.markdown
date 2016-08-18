@@ -40,7 +40,7 @@ So what explains the discrepancy?
 
 One likely explanation is dictionary size. As of 2014, the Emoji language was comprised of 845 individual characters. By comparison, the English language has more than one million words.
 
-If one were to roughly apply the least-effort rule to the English language and only use 5% of the English language, they would be left with 20,000 words. If one were to do the same to the emoji library, they would be left with around 40 words, a subset that I think anyone would agree is too small to effectively emote with. This might explain why we see a relative over reliance on words of middle rank.
+If one were to roughly apply the least-effort rule to the English language and use only 5% of the English language, they would be left with 20,000 words. If one were to do the same to the emoji library, they would be left with around 40 words, a subset that I think most people would agree is too small to effectively emote with. This might explain why we see a relative over reliance on words of middle rank.
 
 Another way to look at the problem is through the lens of the **synonym**. For example, how many ways are there to say "confused" in emoji? Not many. By comparison, in the English language, there is an almost endless supply of synonyms for “confused”: “bewildered,” “befuddled,” “disoriented,” etc.
 

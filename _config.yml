@@ -11,9 +11,9 @@ title                    : "Peter Baldridge's Blog"
 title_separator          : "-"
 name                     : "Peter Baldridge"
 description              : "Scribblings of a Seattle-Based Data Scientist."
-url                      : "https://peterbaldridge.github.io"
+url                      : #
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "peterbaldridge"
+repository               : #
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

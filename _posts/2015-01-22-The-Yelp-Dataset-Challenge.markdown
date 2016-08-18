@@ -9,7 +9,7 @@ header:
 Every year, Yelp holds a dataset challenge in which they release a treasure trove of data to the public. [This year's dataset](https://www.yelp.com/dataset_challenge) includes more than 2.2 million reviews, 591 thousand tips, and 71 thousand businesses, and 200 thousand pictures.
 
 ## The Problem
-I decided to answer my own question which was: How do Yelp users visit the different neighborhoods of their city? Do they tend to visit one neighborhood? Or do they to visit all neighborhoods equally? And within the set of Yelp users, is there a subset "social butterflies" who go about pollinating their cities more than their peers? 
+My question was: How do Yelp users visit the different neighborhoods of their city? Do they tend to visit one neighborhood? Or do they to visit all neighborhoods equally? And within the set of all Yelp users, is there a subset "social butterflies" who go about pollinating their cities more than their peers? 
 
 ## Diversity Index:
 To quantify the diversity of users' visiting habits, I used [Shannon's E](https://en.wikipedia.org/wiki/Diversity_index), a well-used ecological diversity index.

@@ -76,7 +76,7 @@ analytics:
 
 
 # Site Author
-  author           : "Peter Baldridge"
+author:
   name             : "Peter Baldridge"
   avatar           : "https://avatars0.githubusercontent.com/u/8368185?v=3&s=460"
   bio              : "Seattle-Based Data Scientist"
@@ -235,7 +235,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: false

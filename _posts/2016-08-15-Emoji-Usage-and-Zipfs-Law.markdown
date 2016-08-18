@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 published: true
 title: Emoji Usage and Zipf's Law
 ---

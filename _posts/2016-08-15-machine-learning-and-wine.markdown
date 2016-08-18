@@ -25,6 +25,8 @@ The dataset consists of 12 measurements: wine score (ranging from  0, very bad, 
 ### THE PROCESS
 I used a variety of machine learning techniques to predict wine scores. These techniques included Multiple Linear Regression, Random Forest Regression, Support Vector Machine, Artificial Neural Networks.
 
+![](peterbaldridge.github.io/media/wine/manufacturing2.jpg)
+
 ### THE RESULTS
 The results were clear as a bottle of fine Sauvignon blanc: wine score can be reliably predicted using a variety of models, a few of which exceed 90% accuracy. From a list of four models, the clear winner was the Support Vector Machine, which had an accuracy rating of 91.8%. For anyone interesting in toying around with predictive models, I highly recommend Scikit-Learn.
 

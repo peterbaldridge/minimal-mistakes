@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Welcome to my blog. 
 
-I'm a Seattle-based data scientit. I created this blog to share a few of my analytics projects that I'm most proud of.
+I'm a Seattle-based data scientist. I created this blog to share a few of my analytics projects that I'm most proud of.
 
 ### More about me:
 

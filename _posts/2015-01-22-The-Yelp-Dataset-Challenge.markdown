@@ -27,7 +27,7 @@ What was more perplexing was how homogenous the uses' diversity scores were.
 
 ## Going Deeper
 
-What I eventually began to notice was that each city had a different diversity "fingerprint." True, every city's diversity scatterplot was a single contiguous mass, but each city's contiguous mass approached a different limit. Further research might account for this difference. Perhaps it is has to do with the total number of neighborhoods in a city, or perhaps it has more to do with the geographical density of a city's hot spots.
+What I eventually began to notice was that each city had a different diversity "fingerprint." True, every city's diversity-review-count scatterplot was a single contiguous mass, but each city's contiguous mass approached a different limit. Further research might account for this difference. Perhaps it is has to do with the total number of neighborhoods in a city, or perhaps it has more to do with the geographical density of a city's hot spots.
 
 ## The Leftovers
 I used R to solve this problem because it provides an good balance between quick prototyping and a robust open-source library.

@@ -2,6 +2,7 @@
 layout: single
 author: Peter Baldridge
 title: About
+permalink: /about/
 ---
 
 ### Welcome to my blog. 

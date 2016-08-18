@@ -23,7 +23,7 @@ What I inferred from this pattern was that when a user’s review count is low, 
 
 ![](https://peterbaldridge.github.io/media/yelp/vegas.jpg)
 
-What was more perplexing was how homogenous the uses' diversity indexes were.
+What was more perplexing was how homogenous the uses' diversity scores were.
 
 ## Going Deeper
 

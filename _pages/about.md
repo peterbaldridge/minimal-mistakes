@@ -7,8 +7,8 @@ permalink: /about/
 
 ### Welcome to my blog. 
 
-I'm a Seattle-based Data Scientist. I created this blog to showcase a few of the smaller analytics projecs that I've had the pleasure of working on.
+I'm a Seattle-based data scientit. I created this blog to share a few of my analytics projects that I'm most proud of.
 
 ### More about me:
 
-I'm a recent graduate of the University of Washington with a passion for travelling, digital solutions, and data science. I am particularly interested in random forests and the ways that deep neural networks can be optimized, so as to minimize their paramater-tuning time.
+I'm a recent graduate of the University of Washington with a passion for learning, travelling, and data science. I'm particularly interested in random forests and the optimization of deep neural networks.

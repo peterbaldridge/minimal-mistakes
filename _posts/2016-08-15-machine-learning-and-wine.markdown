@@ -1,11 +1,8 @@
 ---
-layout: single
 published: true
-title: Machine Learning Plus Wine
+title: Machine Learning + Wine
+layout: post
 ---
-
-# Machine Learning \+ Wine
-
 ### Why the Science of Wine Scoring Isn’t as Flimsy as You Might Think
 
 **Disclaimer:** The author is in no way affiliated with any part of the wine industry, and was not, nor has he ever been paid-off or lobbied with fine wines and trips to Bahamas to write this or other articles about wine (Not that he would object, by the way, to extravagant lobbying. Wine lobbyists, please take note).

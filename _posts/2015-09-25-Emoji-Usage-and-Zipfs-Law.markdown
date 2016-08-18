@@ -30,7 +30,7 @@ The reality was something different:
 
 ![](https://peterbaldridge.github.io/media/emoji/chart2.jpg)
 
-Looking at the distribution, we see that both tails curve downwards. This indicates a relative over reliance on words of middle rank and an under reliance on words of high and low rank relative to the Zipf distribution.
+Looking at the distribution, we see that both tails curve downwards. This indicates a relative over-reliance on words of middle rank and an under reliance on words of high and low rank, relative to the Zipf distribution.
 
 ![](https://peterbaldridge.github.io/media/emoji/chart1.jpg)
 

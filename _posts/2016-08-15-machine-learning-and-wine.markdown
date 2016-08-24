@@ -7,7 +7,7 @@ header:
   image: grapevine.jpg
 ---
 
-Why the Science of Wine Scoring Isn’t as Flimsy as You Might Think
+Why the Science of Wine Reviewing Isn’t as Flimsy as You Might Think
 
 ***
 **You can check out the code that I used for this project [here.](https://github.com/peterbaldridge/WineScore)** 

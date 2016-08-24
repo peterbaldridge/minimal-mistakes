@@ -17,18 +17,18 @@ Why the Science of Wine Scoring Isn’t as Flimsy as You Might Think
 **Disclaimer:** The author is in no way affiliated with any part of the wine industry, and was not, nor has he ever been paid-off or lobbied with fine wines and trips to Bahamas to write this or other articles about wine (Not that he would object to any extravagant lobbying, by the way. Wine lobbyists, please take note).
 
 ### THE GRAPES OF WRATH
-In recent years, the wine reviewing industry has come under fire. Critiques have ranged from the inconsistency of many wine experts’ [own reviews](https://www.theguardian.com/lifeandstyle/2013/jun/23/wine-tasting-junk-science-analysis) to allegations of [outright fraud](http://vinepair.com/wine-blog/wine-ratings-industrial-complex/). Equipped with a data science toolbox and a list of 5000 wines donated by the university of Minho, Portugal, I set out to test whether or not this hypothesis true.  Is there a reliable link between the chemical composition of a bottle of wine and its quality? Or is the human palette incapable of distinguishing the layers of nuance? The goal: to try to predict a wine’s score based solely off of it’s chemical properties.
+In recent years, the wine reviewing industry has come under fire. Critiques have ranged from the inconsistency of many wine experts’ [own reviews](https://www.theguardian.com/lifeandstyle/2013/jun/23/wine-tasting-junk-science-analysis) to allegations of [outright fraud](http://vinepair.com/wine-blog/wine-ratings-industrial-complex/). Equipped with a data science toolbox and a list of 5000 wines donated by the university of Minho, Portugal, I set out to test whether or not this hypothesis true.  Is there a reliable link between the chemical composition of a bottle of wine and its quality? Or is the human palette incapable of distinguishing the layers of nuance? The goal: to try to predict a wine’s rating based solely off of it’s chemical properties.
 
 ### THE DATASET
-The dataset consists of 12 measurements: wine score (ranging from  0, very bad, to 10, very excellent) and 11 chemical attributes such as acidity, alcohol, and residual sugar. A full description of the chemical attributes can be found [here](http://archive.ics.uci.edu/ml/datasets/Wine+Quality). The dataset contains 4898 individual white wine records, 80% of which I assigned to a training set, and 20% of which I assigned to a cross-validation set.
+The dataset consists of 12 measurements: wine rating (ranging from  0, very bad, to 10, very excellent) and 11 chemical attributes such as acidity, alcohol, and residual sugar. A full description of the chemical attributes can be found [here](http://archive.ics.uci.edu/ml/datasets/Wine+Quality). The dataset contains 4898 individual white wine records, 80% of which I assigned to a training set, and 20% of which I assigned to a cross-validation set.
 
 ### THE PROCESS
-I used a variety of machine learning techniques to predict wine scores. These techniques included Multiple Linear Regression, Random Forest Regression, Support Vector Machine, Artificial Neural Networks.
+I used a variety of machine learning techniques to predict wine ratings. These techniques included Multiple Linear Regression, Random Forest Regression, Support Vector Machine, Artificial Neural Networks.
 
 ![](https://peterbaldridge.github.io/media/wine/manufacturing3.jpg)
 
 ### THE RESULTS
-The results were clear as a bottle of fine Sauvignon blanc: wine score can be reliably predicted using a variety of models, a few of which exceed 90% accuracy. From a list of four models, the clear winner was the Support Vector Machine, which had an accuracy rating of 91.8%. For anyone interesting in toying around with predictive models, I highly recommend Scikit-Learn.
+The results were clear as a bottle of fine Sauvignon blanc: wine ratings can be reliably predicted using a variety of models, a few of which exceed 90% accuracy. From a list of four models, the clear winner was the Support Vector Machine, which had an accuracy rating of 91.8%. For anyone interesting in toying around with predictive models, I highly recommend Scikit-Learn.
 
 |Learning Method|MSE |Mean Error|Accuracy\*|
 |---------------|----|----------|--------|
